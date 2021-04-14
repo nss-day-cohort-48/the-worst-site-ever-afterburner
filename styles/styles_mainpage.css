@@ -25,3 +25,14 @@
     background-color: chocolate;
     padding: 5rem;
 }
+
+.form_button{
+    width: 1mm;
+    height: 1mm;
+    color: rgb(182, 126, 87);
+}
+
+.form_email_input{
+    width: 55rem;
+    flex-wrap: wrap;
+}
