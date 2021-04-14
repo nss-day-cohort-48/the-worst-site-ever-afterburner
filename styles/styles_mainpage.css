@@ -1,0 +1,27 @@
+.header {
+    background-color: brown;
+    padding: 2rem;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 4rem;
+}
+
+.flexbox_left {
+    margin: 2rem;
+    background-color: darkgoldenrod;
+    padding: 2rem;
+}
+
+.promo {
+    margin-top: 30rem;
+}
+
+.flexbox_right {
+    margin: 2rem;
+    margin-left: 10rem;
+    background-color: chocolate;
+    padding: 5rem;
+}
