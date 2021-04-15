@@ -66,6 +66,12 @@ h1 {
     color: rgba(255, 138, 83, 0.966);
 }
 
+.nav-item {
+    font-family: fantasy;
+    font-size: 4rem;
+    font-weight: 700;
+}
+
 a {}
 
 a.flexbox__right:link {}
@@ -75,8 +81,8 @@ a.flexbox__right:visited {}
 a.flexbox__right:focus {}
 
 a.flexbox__right:hover {
-    border-bottom: 6px solid;
-    color: brown;
+    background-color: yellow;
+    color: pink;
 }
 
 a.flexbox__right:active {}
