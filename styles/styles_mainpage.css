@@ -7,7 +7,7 @@
 .header {
     background-color: brown;
     font-size: 2px;
-    color:chartreuse;
+    color: chartreuse;
     padding: 2rem;
 }
 
@@ -40,16 +40,22 @@
     padding: 5rem;
 }
 
-.form_button{
+.form_button {
     width: 1mm;
     height: 1mm;
     color: rgb(236, 103, 8);
+}
+
+.form_email_input {
+    width: 55rem;
+    flex-wrap: wrap;
 }
 
 h1 {
     background-color: rgb(233, 71, 13);
     color: red;
 }
+
 .dog_img {
     height: 10rem;
     width: 15rem;
@@ -63,3 +69,18 @@ h1 {
     padding-top: 300px;
     color: rgba(255, 138, 83, 0.966);
 }
+
+a {}
+
+a.flexbox__right:link {}
+
+a.flexbox__right:visited {}
+
+a.flexbox__right:focus {}
+
+a.flexbox__right:hover {
+    border-bottom: 6px solid;
+    color: brown;
+}
+
+a.flexbox__right:active {}
