@@ -61,6 +61,10 @@ h1 {
     width: 15rem;
 }
 
+.dog_img:hover{
+    width: 100rem;
+}
+
 .footer {
     padding-top: 300px;
     color: rgba(255, 138, 83, 0.966);
