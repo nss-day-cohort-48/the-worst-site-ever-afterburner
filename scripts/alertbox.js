@@ -1,8 +1,7 @@
 function bigger() {
-    var input = document.getElementsByClassName("form_email_input");
-    input.style.width = ((this.value.length + 1) * 8) + 'px';
+    document.getElementById("1").style.cssText="width:10rem;";
+    alert("Clic")
 };
 
-alert("Click here for your free taco!");
-
+alert("Click here for your free taco!")
 
