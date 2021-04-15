@@ -87,3 +87,7 @@ a.flexbox__right:hover {
 }
 
 a.flexbox__right:active {}
+
+h2 {
+    color: magenta;
+}
