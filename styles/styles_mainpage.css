@@ -89,3 +89,7 @@ a.flexbox__right:hover {
     color: yellow;
     font-size: 12rem;
 }
+
+h2 {
+    color: magenta;
+}
