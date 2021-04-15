@@ -46,12 +46,6 @@
     color: rgb(236, 103, 8);
 }
 
-.form_email_input{
-    width: 55rem;
-    flex-wrap: wrap;
-}
-
-
 h1 {
     background-color: rgb(233, 71, 13);
     color: red;
@@ -59,6 +53,10 @@ h1 {
 .dog_img {
     height: 10rem;
     width: 15rem;
+}
+
+.dog_img:hover{
+    width: 100rem;
 }
 
 .footer {
