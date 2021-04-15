@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: rgb(20, 20, 20);
+   
 }
 
 .header {
@@ -70,24 +70,22 @@ h1 {
     color: rgba(255, 138, 83, 0.966);
 }
 
+
+.background__image {
+    background-size: contain;
+    background: url(https://tse2.mm.bing.net/th?id=OIP.XuLyjoSzaxGZT_DM78vz4QHaI9&pid=Api&P=0&w=300&h=300) repeat;
+    width: 100rem;
+    height: 100rem;
+}
+
 .nav-item {
     font-family: fantasy;
     font-size: 4rem;
     font-weight: 700;
 }
 
-a {}
-
-a.flexbox__right:link {}
-
-a.flexbox__right:visited {}
-
-a.flexbox__right:focus {}
-
 a.flexbox__right:hover {
     background-color: yellow;
     color: yellow;
     font-size: 12rem;
 }
-
-a.flexbox__right:active {}
