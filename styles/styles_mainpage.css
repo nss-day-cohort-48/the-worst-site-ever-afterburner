@@ -82,7 +82,8 @@ a.flexbox__right:focus {}
 
 a.flexbox__right:hover {
     background-color: yellow;
-    color: pink;
+    color: yellow;
+    font-size: 12rem;
 }
 
 a.flexbox__right:active {}
